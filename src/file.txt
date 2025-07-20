@@ -1,0 +1,27 @@
+	First Schedule :
+-----------------------------------------------------------------------------------------------------------------------
+Airline	Flight Number	Departure City	Departure Time	Arrival City	Arrival Time	Date
+
+SereneAir	ER501	Karachi	02:00 PM	Islamabad	04:30 PM	2023-06-11
+Shaheen Air	NL101	Lahore	12:00 PM	Islamabad	01:30 PM	2023-06-12
+Air Arabia PK	G9123	Islamabad	05:30 PM	Sharjah	08:00 PM	2023-06-12
+PIA	PK721	Karachi	09:00 AM	Dubai	11:00 AM	2023-06-13
+Emirates	EK622	Lahore	02:30 PM	Dubai	05:00 PM	2023-06-13
+Qatar Airways	QR345	Islamabad	11:45 AM	Doha	03:15 PM	2023-06-14
+Turkish Airlines	TK711	Karachi	07:15 PM	Istanbul	02:45 AM+1	2023-06-14
+British Airways	BA612	Lahore	06:00 AM	London	11:00 AM	2023-06-15
+
+
+	Second Schedule :
+------------------------------------------------------------------------------------------------------------------------
+Airline	Flight Number	Departure City	Departure Time	Arrival City	Arrival Time	Date
+
+Shaheen Air	NL101	Lahore	12:00 PM	Islamabad	01:30 PM	2023-06-12
+Air Arabia PK	G9123	Islamabad	05:30 PM	Sharjah	08:00 PM	2023-06-12
+PIA	PK721	Karachi	09:00 AM	Dubai	11:00 AM	2023-06-13
+Emirates	EK622	Lahore	02:30 PM	Dubai	05:00 PM	2023-06-13
+Qatar Airways	QR345	Islamabad	11:45 AM	Doha	03:15 PM	2023-06-14
+Turkish Airlines	TK711	Karachi	07:15 PM	Istanbul	02:45 AM+1	2023-06-14
+British Airways	BA612	Lahore	06:00 AM	London	11:00 AM	2023-06-15
+PIA	PK505	Islamabad	03:45 PM	Beijing	08:30 AM+1	2023-06-16
+Air Blue	PA701	Karachi	09:30 AM	Jeddah	01:00 PM	2023-06-16
